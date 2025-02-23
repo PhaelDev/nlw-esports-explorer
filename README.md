@@ -20,4 +20,4 @@ Participar desse projeto da Rocketseat foi muito gratificante pra mim, pois abri
 
 ## 📫 Contato
 
-✉️ dev.raphaelcarlos@gmail.com 
+✉️ raphaelsouza.dev@gmail.com 
